@@ -1,3 +1,5 @@
+package Basic;
+
 public class Conditions {
     public static void main(String[] args) {
         byte score = 85;
