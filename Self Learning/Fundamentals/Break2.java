@@ -1,5 +1,6 @@
+package Fundamentals;
+
 import java.util.Scanner;
-import java.util.SimpleTimeZone;
 
 public class Break2 {
     public static void main(String[] args) {

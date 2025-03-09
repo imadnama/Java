@@ -1,4 +1,4 @@
-//class Random{
+package Fundamentals;//class Fundamentals.Random{
 //    public static void main(String[] args) {
 //        int number = 1 + (int)(Math.random() * 10);
 //        System.out.println(number);

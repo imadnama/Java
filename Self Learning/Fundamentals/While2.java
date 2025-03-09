@@ -1,3 +1,5 @@
+package Fundamentals;
+
 import java.util.Scanner;
 class While2 {
     public static void main(String[] args) {

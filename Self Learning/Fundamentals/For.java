@@ -1,3 +1,5 @@
+package Fundamentals;
+
 public class For {
     public static void main(String[] args) {
         int sum = 0;

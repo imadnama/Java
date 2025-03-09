@@ -1,3 +1,5 @@
+package Fundamentals;
+
 class Break4WithLabels {
     public static void main(String[] args) {
         first:

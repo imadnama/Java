@@ -1,3 +1,5 @@
+package Fundamentals;
+
 class Break3NestedLoops {
     public static void main(String[] args) {
         int weeks = 3;
